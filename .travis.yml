@@ -1,4 +1,4 @@
 language: c
 install: sudo apt-get install check
-sctipt: make test
+script: make test
 sudo: required
